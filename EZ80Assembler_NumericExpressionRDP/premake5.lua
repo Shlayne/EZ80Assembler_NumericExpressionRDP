@@ -1,4 +1,4 @@
-project "__PROJECT_NAME__"
+project "EZ80Assembler_NumericExpressionRDP"
 	kind "ConsoleApp"
 	language "C++"
 	cppdialect "C++20"
